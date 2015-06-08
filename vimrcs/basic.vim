@@ -45,6 +45,8 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Sets how many lines of history VIM has to remember
 set history=700
+set fencs=utf-8,gbk,gb2312,gb18030,cs-bom,cp936,latin1
+set enc=utf-8
 
 " Enable filetype plugins
 filetype plugin on
